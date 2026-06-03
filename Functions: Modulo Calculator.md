@@ -13,7 +13,15 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 Add code Here
-
+```
+def result(a,b):
+    return a%b
+a=int(input())
+b=int(input())
+print(result(a,b))
+```
 ## Output
+<img width="561" height="235" alt="image" src="https://github.com/user-attachments/assets/2fb364ea-2ba6-4cb9-ac34-770e60dccae1" />
 
 ## Result
+Thus the Python program to find the modulos of 2 numbers using function is executed successfully.
